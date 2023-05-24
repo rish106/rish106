@@ -2,9 +2,9 @@
 
 I'm Rishabh, a passionate frontend developer, UI/UX designer, and enthusiast of competitive programming and shell scripting. With a creative mindset and a strong technical background, I strive to craft visually appealing and intuitive user interfaces while ensuring seamless functionality.
 
-[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish106&count_private=true&show_icons=true)](https://github.com/rish106)
+[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish106&count_private=true&show_icons=true&theme=github_dark)](https://github.com/rish106)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rish106&count_private=true&show_icons=true)](https://github.com/rish106)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rish106&count_private=true&show_icons=true&theme=github_dark)](https://github.com/rish106)
 
 <!--
 **rish106/rish106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
